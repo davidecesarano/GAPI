@@ -1,0 +1,22 @@
+{
+  "name": "davidecesarano/gapi",
+  "type": "library",
+  "keywords": ["gapi", "google analytics"],
+  "description": "Autoloading class GAPI - Google Analytics PHP Interface.",
+  "license": "GNU",
+  "homepage": "https://github.com/davidecesarano/GAPI",
+  "authors": [
+    {
+      "name": "Davide Cesarano",
+      "email": "davide.cesarano@unipegaso.it"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.0"
+  },
+  "autoload": {
+    "classmap": [
+      "gapi.class.php"
+    ]
+  }
+}
