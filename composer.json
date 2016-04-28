@@ -1,5 +1,5 @@
 {
-  "name": "embryo/gapi",
+  "name": "davidecesarano/gapi",
   "type": "library",
   "keywords": ["gapi", "google analytics"],
   "description": "Autoloading class GAPI - Google Analytics PHP Interface.",
