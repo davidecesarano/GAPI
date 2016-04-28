@@ -13,4 +13,4 @@ Composer autoloading class for GAPI - Google Analytics PHP Interface.
 
 ### Installation and Usage
 
-Follow the instructions here: https://github.com/erebusnz/gapi-google-analytics-php-interface.
+Follow the instructions here: https://github.com/erebusnz/gapi-google-analytics-php-interface
