@@ -1,5 +1,5 @@
 {
-  "name": "davidecesarano/gapi",
+  "name": "davidecesarano/packages/gapi",
   "type": "library",
   "keywords": ["gapi", "google analytics"],
   "description": "Autoloading class GAPI - Google Analytics PHP Interface.",
